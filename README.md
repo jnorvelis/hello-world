@@ -1,2 +1,3 @@
 # hello-world
-The first repository to try out things.
+
+I am doing this "Hello, world!" tutorial right now.
